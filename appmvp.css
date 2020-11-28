@@ -1,0 +1,108 @@
+#messageHeader{
+    height: 75px;
+    width: 100%;
+    background-color: #B49082;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px 10px;
+}
+.wesson{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+  width: 400px;
+  height:150px;
+  background-color: aliceblue;
+  margin-top: 20px;
+  color: #07090F;
+}
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Nerko One', cursive;
+  background-color: #D6C3C9;
+
+}
+
+
+ul {
+    color:#363535;
+  
+    text-decoration: none;
+    
+    display: block;
+    text-align: center;
+  }
+  li {
+    display: inline;
+    padding-top: 20px;
+    cursor: pointer;
+    padding: 20px 30px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  a:hover,
+  a:active {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  a {
+    text-decoration: none;
+  }
+  a {
+    font-weight: bold;
+  }
+  
+  
+
+  #lesson1{
+      margin: 0 auto;
+      height: 150px;
+      width: 150px;
+      display: block;
+      padding-top: 50px;
+  }
+  #lesson2AndThree{
+      height: 150px;
+      width: 150px;
+      margin: 0 auto;
+      text-align: center;
+     padding-top: 20px;
+  }
+ .description{
+   margin-right: 20px;
+ }
+  #lessonImage{
+    height: 150px;
+    width: 150px;
+    padding-left: 50px;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+  }
+  
+  @media only screen 
+  and (min-device-width : 375px) 
+  and (max-device-width : 667px) 
+  
+{
+    #lessonImage{
+      width: 300px;
+      height: 300px;
+    }
+    .description{
+      font-size: 35px;
+      color: white;
+    }
+    li{
+      font-size: 40px;
+    }
+  }
+
+ 

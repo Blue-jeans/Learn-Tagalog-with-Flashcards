@@ -1,0 +1,100 @@
+#startFeelings{
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+   height: 40px;
+   width: 90px;
+   background-color: rgb(153, 57, 153);
+}
+#messageHeader{
+  height: 75px;
+  width: 100%;
+  background-color: #B49082;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px 10px;
+}
+#screenImage{
+    height: 500px;
+    width:750px;
+}
+a {
+    text-decoration: none;
+    color: white;
+  }
+  #messageHeader{
+    height: 75px;
+    width: 100%;
+    background-color: #B49082;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px 10px;
+  }
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+ul {
+    color:#363535;
+  
+    text-decoration: none;
+    position: relative;
+    display: block;
+    text-align: center;
+  }
+  li {
+    display: inline;
+    padding-top: 20px;
+    cursor: pointer;
+    padding: 20px 30px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  a:hover,
+  a:active {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
+  a {
+    text-decoration: none;
+  }
+  a {
+    font-weight: bold;
+  }
+  body{
+    font-family: 'Nerko One', cursive;
+    background-color: #D6C3C9;
+  
+  }
+
+  #middleScreen{
+      margin: 0 auto;
+      margin-top: 30px;
+      height: 500px;
+      width:750px;
+      background-color: rgb(61, 61, 61);
+      border-style: 10px solid;
+      border-color:  black;
+      display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+  #botoes{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 15px;
+    
+  }
+  .losBeckNecks{
+    height: 40px;
+   width: 90px;
+   background-color: rgb(153, 57, 153);
+  }
