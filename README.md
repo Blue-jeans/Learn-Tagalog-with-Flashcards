@@ -1,6 +1,6 @@
 Tagalog App
 
-Tagalog App, or "I love you pero" is an app that aims to help people learn Tagalog, the language of the Philippines.
+Tagalog App is an app that aims to help people learn Tagalog, the language of the Philippines.
 
 Play:
   Play is a work in progress that aims to be a game that turns tagalog education into a game with stages. It will involve a part of the game which is a story with animations that play or skip on click, animations which are played and ended for you, and animations that overlap on top of other animations rendered by the browser.
